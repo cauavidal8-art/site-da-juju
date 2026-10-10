@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+/*
+ * Juma Clube — design tokens
+ * Creme de fundo, bordô + branco das listras do perfil e preto absoluto
+ * para tipografia e bordas. Mostarda e verde-mata vêm do lenço da onça.
+ */
+@theme {
+  --color-creme: #f6efe3;
+  --color-creme-escuro: #ece2d0;
+  --color-papel: #fffaf2;
+  --color-bordo: #7a1426;
+  --color-bordo-escuro: #560c1a;
+  --color-tinta: #0a0a0a;
+  --color-mostarda: #e2a82a;
+  --color-mata: #1f4d36;
+  --color-rosa: #f3b5c0;
+  --color-ceu: #3b6fd8;
+
+  --font-display: var(--font-anton), "Impact", "Arial Narrow", sans-serif;
+  --font-sans: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-hand: var(--font-caveat), "Comic Sans MS", cursive;
+
+  --shadow-duro: 4px 4px 0 0 var(--color-tinta);
+  --shadow-duro-lg: 8px 8px 0 0 var(--color-tinta);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: var(--color-creme);
+    color: var(--color-tinta);
+    font-family: var(--font-sans);
+  }
+
+  ::selection {
+    background-color: var(--color-bordo);
+    color: var(--color-papel);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-bordo);
+    outline-offset: 3px;
+  }
+}
+
+/* Listras verticais bordô e branco, a assinatura visual do perfil. */
+@utility listras {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-bordo) 0 6px,
+    var(--color-papel) 6px 12px
+  );
+}
+
+@utility listras-finas {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-bordo) 0 3px,
+    var(--color-papel) 3px 6px
+  );
+}
+
+/* Textura de papel sutil para o fundo das seções em colagem. */
+@utility papel-quadriculado {
+  background-color: var(--color-papel);
+  background-image:
+    linear-gradient(to right, rgb(10 10 10 / 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(10 10 10 / 0.06) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+/* Fita adesiva das colagens. */
+@utility fita {
+  background-color: rgb(243 181 192 / 0.75);
+  box-shadow: 0 1px 2px rgb(10 10 10 / 0.15);
+  mask-image: linear-gradient(
+    90deg,
+    transparent 0,
+    #000 4px,
+    #000 calc(100% - 4px),
+    transparent 100%
+  );
+}
+
+/* Faixa de letreiro rolando. */
+@keyframes letreiro {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@utility animate-letreiro {
+  animation: letreiro 28s linear infinite;
+
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}

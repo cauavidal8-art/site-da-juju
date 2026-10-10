@@ -1,0 +1,563 @@
+[
+  {
+    "slug": "juma-agenda-roles-da-semana",
+    "title": "Juma Agenda: os rolês da semana em Manaus",
+    "excerpt": "Do café com as amigas na segunda ao domingo sem compromisso: montamos a semana perfeita pra você não ficar em casa.",
+    "category": "agenda",
+    "author": "Juju Amaral",
+    "date": "2026-10-09",
+    "readingTime": 4,
+    "cover": {
+      "src": "/images/posts/juma-agenda.svg",
+      "alt": "Ilustração de um calendário semanal preso por uma prancheta sobre céu azul"
+    },
+    "featured": true,
+    "note": "não marcar nada pra domingo!",
+    "tags": ["roteiro", "semana", "manaus"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Toda semana a gente garimpa a cidade inteira pra montar a Juma Agenda: o guia honesto de onde ir, o que comer e quem encontrar. Nada de lista infinita — só o que a gente iria de verdade."
+      },
+      {
+        "type": "paragraph",
+        "text": "Salva esse post, manda no grupo das amigas e já escolhe o look. Os horários podem mudar, então confere sempre o perfil de cada evento antes de sair."
+      },
+      {
+        "type": "agenda",
+        "items": [
+          {
+            "day": "SEG",
+            "title": "Café com as amigas",
+            "place": "Café Sumaúma — Adrianópolis",
+            "time": "17h",
+            "price": "Consumo"
+          },
+          {
+            "day": "TER",
+            "title": "Cineclube no centro",
+            "place": "Sala Rio Negro — Centro",
+            "time": "19h30",
+            "price": "Gratuito"
+          },
+          {
+            "day": "QUA",
+            "title": "Feira criativa de autoras locais",
+            "place": "Galpão Igarapé — Centro",
+            "time": "18h às 22h",
+            "price": "Gratuito"
+          },
+          {
+            "day": "QUI",
+            "title": "Sarau + discotecagem de brega e tecnobrega",
+            "place": "Casa Tucumã — Vieiralves",
+            "time": "20h",
+            "price": "R$ 20"
+          },
+          {
+            "day": "SEX",
+            "title": "Show de boi no Largo",
+            "place": "Largo de São Sebastião",
+            "time": "21h",
+            "price": "Gratuito"
+          },
+          {
+            "day": "SÁB",
+            "title": "Bazar de brechós + x-caboquinho",
+            "place": "Praça das Seringueiras (fictícia)",
+            "time": "9h às 15h",
+            "price": "Gratuito"
+          },
+          {
+            "day": "DOM",
+            "title": "Nada. Literalmente nada.",
+            "place": "Sua rede, de preferência",
+            "time": "O dia todo",
+            "price": "Grátis e necessário"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Dica da Juju"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quinta é o dia mais disputado da semana. Chega cedo, pega uma mesa perto da pista e deixa o celular no bolso pelo menos na primeira hora."
+      },
+      {
+        "type": "quote",
+        "text": "Rolê bom é rolê que você ainda tá comentando na segunda-feira.",
+        "cite": "Equipe Juma"
+      }
+    ]
+  },
+  {
+    "slug": "item-de-moda-amazonica-guarda-roupa",
+    "title": "Qual é o item de moda amazônica que não sai do seu guarda-roupa?",
+    "excerpt": "Saímos perguntando no evento de moda autoral e as respostas foram de biojoia a estampa de onça. Spoiler: ninguém escolheu só uma peça.",
+    "category": "moda",
+    "author": "Bia Tavares",
+    "date": "2026-10-07",
+    "readingTime": 5,
+    "cover": {
+      "src": "/images/posts/moda-amazonica.svg",
+      "alt": "Colagem com tecido de estampa de onça, listras bordô e vestido recortado"
+    },
+    "featured": false,
+    "note": "onça é neutro, sim!",
+    "tags": ["moda autoral", "estilo", "entrevista"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Na última semana a gente colou num evento de moda autoral e fez a pergunta que não sai da nossa cabeça: qual é a peça amazônica que você usa até gastar?"
+      },
+      {
+        "type": "paragraph",
+        "text": "As respostas mostraram que moda daqui não é fantasia, é rotina. É a peça que vai pro trabalho, pro bar e pro aniversário da tia."
+      },
+      {
+        "type": "heading",
+        "text": "As mais citadas"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Biojoias de sementes de açaí, jarina e tucumã — leves e com cara de exclusivas",
+          "Bolsas de fibra de tucum e arumã, que combinam com tudo",
+          "Estampas de grafismos indígenas feitas em parceria com artistas, com crédito e remuneração",
+          "Peças em couro vegetal e látex nativo",
+          "O clássico animal print de onça, porque a gente não abre mão"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "Usar o que é daqui é dizer de onde eu venho sem precisar abrir a boca.",
+        "cite": "Convidada do evento"
+      },
+      {
+        "type": "heading",
+        "text": "Como começar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se você ainda não tem nada assim, começa por um acessório: uma biojoia ou uma bolsa de fibra transformam um look básico de calça jeans e regata. E compra direto de quem faz — feiras, ateliês e perfis de artesãs locais."
+      },
+      {
+        "type": "paragraph",
+        "text": "E você? Conta pra gente nos comentários lá do Instagram qual é a sua peça."
+      }
+    ]
+  },
+  {
+    "slug": "achados-cafe-especial-manaus",
+    "title": "Achados: onde tomar aquele café especial em Manaus",
+    "excerpt": "Grão bem torrado, mesa boa pra trabalhar e um bolo de macaxeira que vale a viagem. Três cafés que a gente indica de olhos fechados.",
+    "category": "achados",
+    "author": "Rafa Monteiro",
+    "date": "2026-10-05",
+    "readingTime": 4,
+    "cover": {
+      "src": "/images/posts/cafe-especial.svg",
+      "alt": "Ilustração de xícara de café sobre fundo de listras bordô e branco"
+    },
+    "featured": false,
+    "note": "pede o bolo de macaxeira",
+    "tags": ["café", "achados", "trabalho remoto"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Café especial em Manaus deixou de ser raridade. A cena cresceu, os baristas daqui estão cada vez mais afiados e tem lugar pra todo tipo de mood — do café rápido antes do trabalho ao encontro demorado de fim de tarde."
+      },
+      {
+        "type": "paragraph",
+        "text": "Os nomes abaixo são exemplos do nosso mock de conteúdo — troque pelos seus achados favoritos."
+      },
+      {
+        "type": "heading",
+        "text": "1. Café Sumaúma"
+      },
+      {
+        "type": "paragraph",
+        "text": "Luz natural, tomada em todas as mesas e um coado que muda toda semana. Ideal pra quem trabalha remoto e precisa sair de casa. Peça o bolo de macaxeira com cupuaçu."
+      },
+      {
+        "type": "heading",
+        "text": "2. Torra Rio Negro"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pequenininho, com balcão de frente pra máquina de espresso. Aqui o rolê é conversar com o barista e sair com um pacote de grão moído na hora."
+      },
+      {
+        "type": "heading",
+        "text": "3. Varanda Jambu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Café gelado com tucumã, brunch no fim de semana e uma varanda cheia de planta. Chega antes das 10h no sábado ou prepara a paciência pra fila."
+      },
+      {
+        "type": "quote",
+        "text": "Café bom é aquele que você volta sozinha só pra ficar um pouco mais.",
+        "cite": "Rafa Monteiro"
+      }
+    ]
+  },
+  {
+    "slug": "do-amazonas-pras-passarelas",
+    "title": "Do Amazonas pras passarelas: o rosto do Norte na moda internacional",
+    "excerpt": "Modelos, stylists e marcas amazonenses estão ocupando semanas de moda pelo mundo. A gente explica por que esse movimento importa.",
+    "category": "moda",
+    "author": "Bia Tavares",
+    "date": "2026-10-03",
+    "readingTime": 6,
+    "cover": {
+      "src": "/images/posts/passarela.svg",
+      "alt": "Ilustração de passarela listrada iluminada por holofote"
+    },
+    "featured": false,
+    "note": "face card, beleza e talento ✨",
+    "tags": ["passarela", "representatividade", "semana de moda"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Não é de hoje que a beleza do Norte chama atenção, mas nos últimos anos ficou impossível ignorar: tem cada vez mais gente daqui abrindo desfile, fotografando campanha e assinando coleção."
+      },
+      {
+        "type": "heading",
+        "text": "Por que isso importa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante muito tempo, a Amazônia apareceu na moda só como tema — estampa, cenário, inspiração. Quando quem é daqui ocupa a passarela e os bastidores, a história passa a ser contada por quem vive ela."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Mais agências de modelos olhando para Manaus e o interior",
+          "Marcas autorais exportando peças com matéria-prima local e rastreável",
+          "Stylists e fotógrafas da região assinando editoriais nacionais"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "A gente não quer ser tendência de uma temporada. A gente quer ficar.",
+        "cite": "Equipe Juma"
+      },
+      {
+        "type": "paragraph",
+        "text": "Por aqui, a gente vai seguir acompanhando e celebrando cada conquista. Se você conhece alguém da cena que merece destaque, manda pra gente."
+      }
+    ]
+  },
+  {
+    "slug": "x-caboquinho-cafe-da-manha-manauara",
+    "title": "X-caboquinho: o café da manhã que é a cara de Manaus",
+    "excerpt": "Pão, queijo coalho, tucumã e banana pacovã. A gente explica a combinação mais amada da cidade e onde ela fica ainda melhor.",
+    "category": "lifestyle",
+    "author": "Juju Amaral",
+    "date": "2026-10-01",
+    "readingTime": 3,
+    "cover": {
+      "src": "/images/posts/x-caboquinho.svg",
+      "alt": "Ilustração de sanduíche com fatias de tucumã e queijo sobre fundo listrado"
+    },
+    "featured": false,
+    "note": "com café preto, sempre",
+    "tags": ["comida", "tucumã", "café da manhã"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Se existe um sanduíche que define a manhã manauara, é o x-caboquinho. Pão francês (ou tapioca, pra quem prefere), queijo coalho tostado, lascas de tucumã e, pra completar, banana pacovã frita."
+      },
+      {
+        "type": "heading",
+        "text": "Monte o seu"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Pão francês crocante ou tapioca bem fininha",
+          "Queijo coalho dourado na chapa",
+          "Tucumã fresco, em lascas generosas",
+          "Banana pacovã frita (opcional, mas a gente recomenda)",
+          "Café preto pra acompanhar"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "O segredo é o tucumã fresquinho: amarelo forte, macio e sem aquele gosto de fruta passada. Nas feiras, pergunte sempre se chegou no dia."
+      },
+      {
+        "type": "quote",
+        "text": "Turista pede açaí. Manauara pede x-caboquinho.",
+        "cite": "Ditado da redação"
+      }
+    ]
+  },
+  {
+    "slug": "teatro-amazonas-guia-primeira-vez",
+    "title": "Teatro Amazonas além da ópera: guia pra quem nunca foi",
+    "excerpt": "Visita guiada, concertos gratuitos e o que vestir. Tudo pra você finalmente conhecer o cartão-postal mais famoso da cidade por dentro.",
+    "category": "cultura",
+    "author": "Rafa Monteiro",
+    "date": "2026-09-28",
+    "readingTime": 5,
+    "cover": {
+      "src": "/images/posts/teatro.svg",
+      "alt": "Ilustração da cúpula colorida de um teatro sobre fundo bordô"
+    },
+    "featured": false,
+    "note": "olha pro teto!",
+    "tags": ["teatro", "centro histórico", "guia"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Inaugurado em 1896, no auge do ciclo da borracha, o Teatro Amazonas é o símbolo mais conhecido de Manaus. E muita gente da cidade ainda nunca entrou — bora mudar isso."
+      },
+      {
+        "type": "heading",
+        "text": "Como visitar"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Visitas guiadas acontecem durante a semana; confira os horários no site oficial antes de ir",
+          "Muitos concertos e ensaios abertos têm entrada gratuita ou preço popular",
+          "Fique de olho na programação dos festivais de ópera e de dança"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "O que vestir"
+      },
+      {
+        "type": "paragraph",
+        "text": "Não precisa de traje de gala pra uma visita, mas um look mais arrumadinho combina com o clima. Para espetáculos à noite, vale caprichar: é a desculpa perfeita pra usar aquela biojoia."
+      },
+      {
+        "type": "quote",
+        "text": "Conhecer a própria cidade como turista é um dos rolês mais subestimados que existem.",
+        "cite": "Equipe Juma"
+      },
+      {
+        "type": "paragraph",
+        "text": "Depois, atravessa o Largo de São Sebastião, senta num banco e pede um tacacá. Programa completo."
+      }
+    ]
+  },
+  {
+    "slug": "domingo-perfeito-ponta-negra",
+    "title": "Domingo perfeito: do tacacá ao pôr do sol na Ponta Negra",
+    "excerpt": "Roteiro sem pressa pra recarregar as energias: comida de rua, rio e o céu mais bonito da semana.",
+    "category": "lifestyle",
+    "author": "Juju Amaral",
+    "date": "2026-09-25",
+    "readingTime": 3,
+    "cover": {
+      "src": "/images/posts/por-do-sol.svg",
+      "alt": "Ilustração de pôr do sol amarelo sobre rio com ondas e céu rosa"
+    },
+    "featured": false,
+    "note": "leva canga e protetor",
+    "tags": ["domingo", "roteiro", "rio negro"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Domingo em Manaus pede ritmo lento. Esse é o nosso roteiro favorito pra quem quer sair de casa sem se cansar."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Manhã: feira pra comprar fruta da estação e tomar um caldo de cana",
+          "Almoço: peixe assado com farinha do Uarini e baião",
+          "Tarde: rede, cochilo e uma playlist boa",
+          "Fim de tarde: tacacá bem quente e pôr do sol na orla da Ponta Negra"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "O pôr do sol na orla é aquele momento em que todo mundo para e fica olhando pro mesmo lado. Chega uns 30 minutos antes pra pegar lugar na mureta."
+      },
+      {
+        "type": "quote",
+        "text": "Não tem filtro que faça o céu de Manaus parecer mais bonito do que já é.",
+        "cite": "Juju Amaral"
+      }
+    ]
+  },
+  {
+    "slug": "playlist-juma-som-do-norte",
+    "title": "Playlist Juma: o som do Norte que tá tocando no nosso fone",
+    "excerpt": "Toada, carimbó, tecnobrega e o pop amazônico que tá crescendo. Uma seleção pra ouvir no trânsito, na rede ou no esquenta.",
+    "category": "cultura",
+    "author": "Equipe Juma",
+    "date": "2026-09-22",
+    "readingTime": 4,
+    "cover": {
+      "src": "/images/posts/playlist.svg",
+      "alt": "Ilustração de disco de vinil sobre recorte de estampa de onça"
+    },
+    "featured": false,
+    "note": "aumenta o volume",
+    "tags": ["música", "playlist", "toada"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A música do Norte vive um momento incrível: artistas da região misturando ritmos tradicionais com eletrônico, rap e pop, e chegando em playlists do país inteiro."
+      },
+      {
+        "type": "heading",
+        "text": "O que tem na seleção"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Toadas de boi-bumbá que fazem qualquer um levantar",
+          "Carimbó e guitarrada pra dançar sem vergonha",
+          "Tecnobrega pro esquenta de sexta",
+          "Novos nomes do pop e do rap amazônico"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "A playlist completa fica no link da bio do nosso Instagram e é atualizada todo mês. Tem sugestão? Manda pra gente que a gente escuta tudo."
+      }
+    ]
+  },
+  {
+    "slug": "brechos-manaus-garimpo",
+    "title": "Achados: brechós de Manaus pra garimpar peças únicas",
+    "excerpt": "Vintage, peças de marca e aquele vestido que ninguém mais vai ter. O guia Juma pro garimpo perfeito.",
+    "category": "achados",
+    "author": "Bia Tavares",
+    "date": "2026-09-19",
+    "readingTime": 4,
+    "cover": {
+      "src": "/images/posts/brecho.svg",
+      "alt": "Ilustração de cabide com vestido de estampa de onça e etiqueta de preço"
+    },
+    "featured": false,
+    "note": "vai de sacola própria",
+    "tags": ["brechó", "moda circular", "garimpo"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Garimpar é quase um esporte. Exige paciência, olho treinado e disposição pra revirar arara. A recompensa? Peças únicas por uma fração do preço."
+      },
+      {
+        "type": "heading",
+        "text": "Nossas dicas de garimpo"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Vá no dia de reposição: pergunte no perfil do brechó quando chegam peças novas",
+          "Confira costuras, zíperes e manchas com calma, na luz natural",
+          "Procure tecidos naturais: linho, algodão e seda envelhecem melhor",
+          "Pense em ajustes: uma costureira de confiança transforma qualquer peça"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Moda circular é também uma forma de cuidar da floresta: menos produção, menos descarte e mais história em cada roupa."
+      }
+    ]
+  },
+  {
+    "slug": "biojoias-como-usar",
+    "title": "Biojoias: como usar sementes e fibras da floresta no look",
+    "excerpt": "Do trabalho à festa, cinco jeitos de incluir biojoias no dia a dia sem parecer fantasia.",
+    "category": "moda",
+    "author": "Bia Tavares",
+    "date": "2026-09-15",
+    "readingTime": 3,
+    "cover": {
+      "src": "/images/posts/biojoias.svg",
+      "alt": "Ilustração de colar com sementes coloridas e pingente de folha"
+    },
+    "featured": false,
+    "note": "menos é mais (às vezes)",
+    "tags": ["biojoias", "acessórios", "styling"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Biojoias são feitas com sementes, fibras, cascas e madeiras nativas. Leves, únicas e cheias de significado, elas são o acessório amazônico por excelência."
+      },
+      {
+        "type": "list",
+        "items": [
+          "No trabalho: um brinco de semente pequeno com camisa branca",
+          "No happy hour: colar longo sobre regata preta",
+          "Na festa: maxibrinco colorido e cabelo preso",
+          "No fim de semana: pulseiras empilhadas com vestido leve",
+          "Em qualquer lugar: anel de tucumã, o clássico manauara"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Compre de artesãs e cooperativas locais e pergunte sobre a origem das sementes. Assim o dinheiro fica na região e a floresta agradece."
+      }
+    ]
+  },
+  {
+    "slug": "agenda-cultural-do-mes",
+    "title": "Agenda do mês: exposições, shows e festivais pra não perder",
+    "excerpt": "Separamos os eventos maiores de outubro pra você já ir se planejando — e comprando ingresso antes de esgotar.",
+    "category": "agenda",
+    "author": "Equipe Juma",
+    "date": "2026-09-30",
+    "readingTime": 3,
+    "cover": {
+      "src": "/images/posts/agenda-mes.svg",
+      "alt": "Ilustração de três ingressos coloridos colados sobre fundo verde"
+    },
+    "featured": false,
+    "note": "compra antes que esgota",
+    "tags": ["outubro", "shows", "exposições"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Outubro chegou com programação cheia. Esses são os eventos que já estão no nosso calendário — datas e locais são exemplos do mock, troque pela agenda real."
+      },
+      {
+        "type": "agenda",
+        "items": [
+          {
+            "day": "04/10",
+            "title": "Abertura de exposição de fotografia ribeirinha",
+            "place": "Galeria Igarapé — Centro",
+            "time": "19h",
+            "price": "Gratuito"
+          },
+          {
+            "day": "11/10",
+            "title": "Festival de música independente do Norte",
+            "place": "Arena Beira-Rio",
+            "time": "16h",
+            "price": "A partir de R$ 40"
+          },
+          {
+            "day": "18/10",
+            "title": "Mercado de moda autoral",
+            "place": "Casa Tucumã — Vieiralves",
+            "time": "10h às 20h",
+            "price": "Gratuito"
+          },
+          {
+            "day": "25/10",
+            "title": "Noite de cinema ao ar livre",
+            "place": "Orla da Ponta Negra",
+            "time": "19h",
+            "price": "Gratuito"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Quer ver seu evento por aqui? Manda as informações no direct do Instagram."
+      }
+    ]
+  }
+]

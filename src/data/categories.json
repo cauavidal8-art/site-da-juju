@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "agenda",
+    "name": "Agenda",
+    "tagline": "Os rolês da semana em Manaus, filtrados por quem sai de casa de verdade.",
+    "color": "ceu"
+  },
+  {
+    "slug": "lifestyle",
+    "name": "Lifestyle",
+    "tagline": "Rotina, comida, bem-estar e aquele domingo perfeito à beira do rio.",
+    "color": "rosa"
+  },
+  {
+    "slug": "cultura",
+    "name": "Cultura",
+    "tagline": "Teatro, música, arte e tudo que faz Manaus pulsar.",
+    "color": "mostarda"
+  },
+  {
+    "slug": "achados",
+    "name": "Achados",
+    "tagline": "Cafés, brechós e cantinhos que a gente encontrou e precisa te contar.",
+    "color": "mata"
+  },
+  {
+    "slug": "moda",
+    "name": "Moda",
+    "tagline": "Estilo amazônico, passarelas e o que está no nosso guarda-roupa agora.",
+    "color": "bordo"
+  }
+]
